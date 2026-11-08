@@ -1,0 +1,7 @@
+interface:
+  display_name: "Develop with Guidance"
+  short_description: "Build projects with a coding mentor, one stage at a time"
+  default_prompt: "Use $develop-with-guidance to help me build my next feature while understanding the code."
+
+policy:
+  allow_implicit_invocation: false
